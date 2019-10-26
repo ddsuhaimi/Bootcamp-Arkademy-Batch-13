@@ -1,0 +1,92 @@
+@font-face {
+    font-family: Airbnb Cereal App Bold;
+    font-weight: bold;
+    src: url("../font/AirbnbCerealBold.ttf") format("opentype");
+}
+@font-face {
+  font-family: Airbnb Cereal App Medium;
+  font-weight: medium;
+  src: url("../font/AirbnbCerealMedium.ttf") format("opentype");
+}
+@font-face {
+  font-family: Airbnb Cereal App Book;
+  /* font-weight: book; */
+  src: url("../font/AirbnbCerealBook.ttf") format("opentype");
+}
+
+body {
+  font-family: Airbnb Cereal App Book;
+}
+.container {
+  margin-top: 100px;
+}
+
+.head-silver thead {
+  color: white;
+  border: 2px solid blue !important;
+  background:silver;
+  line-height: 40px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+  border-radius: 20px 20px 0px 0px;
+}
+
+.navbar-brand img {
+  width: 150px;
+  height: 106px;
+}
+
+nav {
+  height: 109px;
+  left: 0px;
+  top: 0px;
+  background: #FFFEFE;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+}
+
+nav span {
+  text-transform: uppercase;
+  font-family: Airbnb Cereal App Bold;
+  font-weight: bold;
+  font-size: 30px;
+}
+.arkademy {
+  color: pink;
+}
+
+.coffee {
+  color: black;
+}
+
+nav .btn {
+  background: #FF8FB2;
+  border-radius: 10px;
+  width: 150px;
+  height: 50px;
+  color: white;
+  text-transform: uppercase;
+}
+
+tbody {
+  background: #FFFFFF;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+  border-radius: 0px 0px 20px 20px;
+}
+table {
+  text-align: center;
+}
+
+table td {
+  font-family: Airbnb Cereal App Book;
+}
+
+.edit-link {
+  color: #ACE087;
+}
+
+.delete-link {
+  color: #FF8FB2  ;
+}
+
+.add-form {
+  color: whitesmoke;
+}

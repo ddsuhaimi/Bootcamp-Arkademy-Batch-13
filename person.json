@@ -1,0 +1,1 @@
+{"name": "Dedi Suhaimi", "age": 22, "address": "Banda Aceh", "hobbies": ["programming"], "is_married": false, "list_school": [{"year_in": 2015, "year_out": 2019, "major": "Mathematics"}], "skills": [{"skill_name": "Web Programming", "level": "Intermediate"}, {"skill_name": "Python", "level": "Intermediate"}], "interest_in_coding": true}
